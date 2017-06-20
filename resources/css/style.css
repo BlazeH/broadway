@@ -5,6 +5,8 @@ html {
 .header {
   background-image: url("../../resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
   color: white;
 }
 h1{
@@ -34,6 +36,8 @@ a {
 #median {
   background-image: url("../../resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
   color: white;
   font-size: 23px;
   font-weight: bold;
